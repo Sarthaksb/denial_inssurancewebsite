@@ -1,0 +1,6 @@
+{
+  "name": "Donedial",
+  "description": "The AI voice agent that automates insurance verification, navagates payer menus, and returns structured coverage reports in under 3 minutes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
